@@ -3,3 +3,6 @@ gunicorn
 tensorflow
 pillow
 rasterio
+pandas
+flask-cors
+numpy
