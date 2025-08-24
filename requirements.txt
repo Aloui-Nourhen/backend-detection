@@ -7,4 +7,4 @@ pandas
 flask-cors
 numpy
 joblib
-sklearn
+scikit-learn
