@@ -6,3 +6,4 @@ rasterio
 pandas
 flask-cors
 numpy
+joblib
